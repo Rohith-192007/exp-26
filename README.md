@@ -166,3 +166,6 @@ The GitHub repository was cloned to the local computer. A file was edited and sa
 ## Repository
 
 [https://github.com/Rohith-192007/exp-26](https://github.com/Rohith-192007/exp-26)
+## Local Editing
+
+This line was added after cloning the repository to my computer.
